@@ -1,9 +1,9 @@
 {
-  "name": "@web3-react/walletconnect-connector",
+  "name": "ds-web3-react-walletconnect",
   "publishConfig": {
     "access": "public"
   },
-  "version": "6.2.13",
+  "version": "6.2.15",
   "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
   "keywords": [
     "react",
